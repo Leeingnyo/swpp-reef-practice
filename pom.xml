@@ -11,7 +11,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <reef.version>0.12.0-incubating-SNAPSHOT</reef.version>
+    <reef.version>0.11.0-incubating</reef.version>
   </properties>
 
   <dependencies>
